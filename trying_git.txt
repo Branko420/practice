@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 iskam da kaja neshto
+=======
+>>>>>>> parent of ef95e00 (new update)
 =======
 >>>>>>> parent of ef95e00 (new update)
